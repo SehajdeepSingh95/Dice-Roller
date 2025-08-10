@@ -1,4 +1,4 @@
-#🎲 Dice Roller
+# Dice Roller
 A simple and interactive Dice Roller web app made with HTML, CSS, and JavaScript.
 Users can choose how many dice to roll, click a button, and see both the dice images and the rolled values.
 
