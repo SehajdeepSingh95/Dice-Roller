@@ -26,30 +26,3 @@ Enter the number of dice in the input box.
 Click Roll Dice.
 
 View the rolled numbers and dice images.
-
-📂 Project Structure
-bash
-Copy
-Edit
-📁 Dice-Roller
- ┣ 📄 index.html      # Main HTML file
- ┣ 📄 style.css       # Styling for the page
- ┣ 📄 script.js       # JavaScript logic
- ┣ 📁 images          # Dice images (dice1.png - dice6.png)
-📷 Example Output
-Rolling 3 dice might give:
-
-makefile
-Copy
-Edit
-Dice: 2, 5, 1
-[🎲][🎲][🎲]
-Where each 🎲 is the actual dice image.
-
-✨ Future Improvements
-Add rolling animation before showing results.
-
-Allow custom dice themes.
-
-Keep a history of previous rolls.
-
